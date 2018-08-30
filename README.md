@@ -1,2 +1,2 @@
-# Openshift-danjo
-control container through o's REST
+# Open-djang-it
+control containers with django's REST
