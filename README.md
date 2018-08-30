@@ -1,2 +1,2 @@
 # Openshift-danjo
-control container through Danjo's REST
+control container through o's REST
